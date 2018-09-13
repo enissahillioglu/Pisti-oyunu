@@ -1,0 +1,23 @@
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\bin\Debug\pisti.exe.config
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\bin\Debug\pisti.exe
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\bin\Debug\pisti.pdb
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\obj\Debug\pisti.csprojResolveAssemblyReference.cache
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\obj\Debug\pisti.Form1.resources
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\obj\Debug\pisti.Properties.Resources.resources
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\obj\Debug\pisti.csproj.GenerateResource.Cache
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\obj\Debug\pisti.exe
+c:\users\atiye\documents\visual studio 2015\Projects\pisti\pisti\obj\Debug\pisti.pdb
+C:\Users\atiye\Documents\Visual Studio 2015\Projects\pisti\pisti\obj\Debug\pisti.anaMenu.resources
+D:\Nesne Proje\pisti\pisti\bin\Debug\pisti.exe.config
+D:\Nesne Proje\pisti\pisti\obj\Debug\pisti.exe
+D:\Nesne Proje\pisti\pisti\obj\Debug\pisti.pdb
+E:\Nesne Proje\pisti\pisti\bin\Debug\pisti.exe.config
+E:\Nesne Proje\pisti\pisti\obj\Debug\pisti.exe
+E:\Nesne Proje\pisti\pisti\obj\Debug\pisti.pdb
+E:\Nesne Proje\pisti\pisti\bin\Debug\pisti.exe
+E:\Nesne Proje\pisti\pisti\obj\Debug\pisti.csprojResolveAssemblyReference.cache
+E:\Nesne Proje\pisti\pisti\obj\Debug\pisti.anaMenu.resources
+E:\Nesne Proje\pisti\pisti\obj\Debug\pisti.Form1.resources
+E:\Nesne Proje\pisti\pisti\obj\Debug\pisti.Properties.Resources.resources
+E:\Nesne Proje\pisti\pisti\obj\Debug\pisti.csproj.GenerateResource.Cache
+E:\Nesne Proje\pisti\pisti\bin\Debug\pisti.pdb
